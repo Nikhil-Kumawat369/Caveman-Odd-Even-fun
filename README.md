@@ -61,3 +61,20 @@ else :
     Don’t run this for extremely high numbers unless you like waiting forever
 
     Feel free to copy, run, and laugh at the madness
+
+## 📜 License
+
+>This project is open for learning and experimentation.
+>You may modify, distribute, or expand it freely.
+
+## 👤 Author
+
+Developed by: Nikhil Kumawat
+<br>
+Language: Python
+<br>
+Project: Caveman Odd Even
+
+>“Dont Ask Why ??.”
+>“Why ??.”
+>“Just don't.”
