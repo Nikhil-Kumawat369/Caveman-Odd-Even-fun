@@ -1,6 +1,6 @@
-f = open("generated.py" , "w")
+f = open("Caveman-Odd-Even-fun/generated.py" , "w")
 
-# this num variable just tracke how many time the if else statements need to be generated
+# this num variable just track how many time the if else statements need to be generated
 num = int(input("Till How Many Number You Want To Write if / elif To Check Odd or Even :- "))
 
 # This make a input logic in the generated file 
